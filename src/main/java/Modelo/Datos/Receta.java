@@ -10,6 +10,14 @@ public class Receta {
     Tipo tipo;
     Dificultad dificultad;
 
+    public Receta(String nombre, String preparacion, List<String> ingredientes, Tipo tipo, Dificultad dificultad) {
+        this.nombre = nombre;
+        this.preparacion = preparacion;
+        this.ingredientes = ingredientes;
+        this.tipo = tipo;
+        this.dificultad = dificultad;
+    }
+
     public String getNombre() {
         return nombre;
     }
