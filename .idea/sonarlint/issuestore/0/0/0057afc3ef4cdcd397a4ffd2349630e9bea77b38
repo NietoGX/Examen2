@@ -1,0 +1,15 @@
+
+J
+java:S1172"-Remove this unused method parameter "nombre".(•®İ³8š×²¹¯.
+O
+java:S1172"-Remove this unused method parameter "receta".(ôÄÆ¸øÿÿÿÿ8è×´¹¯.
+M
+java:S1068
+"+Remove this unused "recetas" private field.(—äÇÌûÿÿÿÿ8óæ¹¯.
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8š×²¹¯.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÄ€ü
+O
+java:S1172"-Remove this unused method parameter "nombre".(±Úúÿÿÿÿ8š×²¹¯.
+F
+java:S1068")Remove this unused "vista" private field.(Â‚—‚8Á•½¹¯.
